@@ -409,10 +409,7 @@ Http is available as an injectable class, with methods to perform http requests.
 * [ng-lightning](https://github.com/ng-lightning/ng-lightning) Native Angular 2 components & directives for Lightning Design System
 * [ag-grid](https://www.ag-grid.com/) Advanced Datagrid for Pure Javascript / AngularJS 1.x / AngularJS 2 / Web Components
 * [angular2-grid](https://github.com/BTMorton/angular2-grid) A drag/drop/resize grid-based plugin directive for angular2.
-* [angular2-jwt](https://github.com/auth0/angular2-jwt) Library for sending authenticated HTTP requests and decoding JWTs
-* [angular2-cookie](https://github.com/salemdar/angular2-cookie) Library that implements Angular 1.x $cookies service in Angular 2
 * [angular2-fontawesome](https://github.com/travelist/angular2-fontawesome) Angular2 Components and Directives for Fontawesome
-* [angular-safeguard](https://github.com/MikaAK/angular-safeguard) Wrapper around cookies/sessionStorage/localStorage for angular2. If all are unavailable will use an in memory storage.
 * [angular2-google-maps](https://github.com/SebastianM/angular-google-maps) Angular2 directives for Google Maps
 * [angular-cesium](https://github.com/TGFTech/angular-cesium) Creating map based web apps using Cesium and Angular
 * [ng2-radio-group](https://github.com/pleerock/ngx-select-controls) Angular2 directives for radio and checkbox inputs and radio input groups
@@ -425,7 +422,6 @@ Http is available as an injectable class, with methods to perform http requests.
 * [fuel-ui](https://github.com/FuelInteractive/fuel-ui) Bootstrap 4 components and directives for use in Angular 2
 * [prime-ng](https://www.primefaces.org/primeng/)  Collection of rich UI components for Angular 2
 * [ng2-ace](https://github.com/seiyria/ng2-ace) Ace editor directive made for Angular 2
-* [ng2-storage](https://github.com/seiyria/ng2-storage) A localStorage and sessionStorage wrapper written using ES6 Proxies for Angular 2
 * [ng2-fontawesome](https://github.com/seiyria/ng2-fontawesome) A small directive making font awesome even easier to use.
 * [ng2-sweetalert2](https://github.com/seiyria/ng2-sweetalert2) A wrapper for sweetalert2 for use with Angular 2.
 * [angular2-text-mask](https://github.com/text-mask/text-mask) Angular 2 input mask directive
@@ -445,26 +441,16 @@ Http is available as an injectable class, with methods to perform http requests.
 * [ng2-quill-editor](https://github.com/surmon-china/ngx-quill-editor) - Quill editor component for Angular2
 * [ngx-charts](https://github.com/swimlane/ngx-charts) - Declarative Charting Framework for Angular2 and beyond!
 * [ngx-datatable](https://github.com/swimlane/ngx-datatable)  A feature-rich yet lightweight data-table crafted for Angular2 and beyond!
-* [ngx-ui](https://github.com/swimlane/ngx-ui) - Style and Component Library for Angular2 and beyond!
-* [Cloudinary](https://github.com/cloudinary/cloudinary_angular/tree/angular_next) - Angular2 SDK for image and video management in the cloud
 * [angular2-simple-countdown](https://github.com/previousdeveloper/angular2-simple-countdown) - a simple countdown angular2 directive with multiple language
-* [ng-http-cache](https://github.com/davguij/angular-http-cache) - Speed up your remote requests by automatically caching them on client.
-* [lottie-angular2](https://github.com/chenqingspring/ng-lottie) - Render After Effects animations on Angular2 based on Bodymovin.
-* [ngx-restangular](https://github.com/2muchcoffeecom/ngx-restangular) - Restangular for Angular 2 and higher versions.
 * [ngfb-sortable-table](https://github.com/NodeArt/Angular-Firebase-Sortable-Table) - Angular Firebase Sortable Table. Ability to filter and sort data with own firebase quering tools.
 * [angular-split](https://github.com/bertrandg/angular-split) Angular split component
 * [od-virtualscroll](https://github.com/dinony/od-virtualscroll) Observable-based virtual scroll implementation in Angular
 * [angular2-froala-wysiwyg](https://github.com/froala/angular-froala-wysiwyg) Angular 2 wrapper for Froala WYSIWYG HTML Editor
 * [ngx-meta/core](https://github.com/ngx-meta/core) - Dynamic page title & meta tags utility for Angular (w/server-side rendering) by @fulls1z3
-* [ngx-config/core](https://github.com/ngx-config/core) - Configuration utility for Angular (incl. Angular Universal loader) by @fulls1z3
-* [ngx-cache/core](https://github.com/ngx-cache/core) - Cache utility for Angular (incl. browser & server platform implementations) by @fulls1z3
-* [ngx-i18n-router/core](https://github.com/ngx-i18n-router/core) - Route internationalization utility for Angular by @fulls1z3
 * [angular2-promise-buttons](https://github.com/johannesjo/angular2-promise-buttons) - Loading buttons for Angular 2 by @johannesjo
 * [ng2-archwizard](https://github.com/madoar/ng2-archwizard) - Wizard component for Angular 2
 * [ngx-popper](https://github.com/MrFrankel/ngx-popper) - Tooltip managment, wrapper for popper.js(https://popper.js.org/)
 * [ngx-avatar](https://github.com/HaithemMosbahi/ngx-avatar) - Avatar component that makes it possible to genearte / fetch avatar based on the information you have about the user.
-* [ngx-qrcode2](https://github.com/techiediaries/ngx-qrcode) - An Angular 4+ Component library for Generating QR (Quick Response ) Codes 
-* [ng2-permission](https://github.com/JavadRasouli/ng2-permission) - Fully featured permission based access control for your angular 4+ applications. This module inspired from [`angular-permission`](https://github.com/Narzerus/angular-permission).
 
 #### Site Templates
 * [NG-Dashboard](https://github.com/YagoLopez/ng-dashboard) - Dashboard for Angular 4+. UI Components based on [Material Light](https://github.com/YagoLopez/material-light). Chart Component based on [MetricsGraficsJS](https://www.metricsgraphicsjs.org). Map Directive based on [LeafletJS](http://leafletjs.com). [DEMO ONLINE](http://yagolopez.js.org/ng-dashboard/dist/)
@@ -475,6 +461,23 @@ Http is available as an injectable class, with methods to perform http requests.
 * [ngx-pipes](https://github.com/danrevah/ngx-pipes) Bunch of useful pipes for Angular2 and beyond!
 * [ngx-order-pipe](https://github.com/VadimDez/ngx-order-pipe) OrderBy pipe for Angular4+ - sort collection by a field
 * [angular2-camelcase](https://github.com/previousdeveloper/angular2-camelcase) Angular2 pipe to convert camelCase strings to human readable strings Edit
+
+#### Libraries
+* [ngx-store](https://github.com/zoomsphere/ngx-store) Library providing `@(Local|Session|Cookie)Storage` decorators and services that make it super easy to store your data
+* [angular2-jwt](https://github.com/auth0/angular2-jwt) Library for sending authenticated HTTP requests and decoding JWTs
+* [angular2-cookie](https://github.com/salemdar/angular2-cookie) Library that implements Angular 1.x $cookies service in Angular 2
+* [angular-safeguard](https://github.com/MikaAK/angular-safeguard) Wrapper around cookies/sessionStorage/localStorage for angular2. If all are unavailable will use an in memory storage.
+* [ng2-storage](https://github.com/seiyria/ng2-storage) A localStorage and sessionStorage wrapper written using ES6 Proxies for Angular 2
+* [ngx-ui](https://github.com/swimlane/ngx-ui) - Style and Component Library for Angular2 and beyond!
+* [Cloudinary](https://github.com/cloudinary/cloudinary_angular/tree/angular_next) - Angular2 SDK for image and video management in the cloud
+* [ng-http-cache](https://github.com/davguij/angular-http-cache) - Speed up your remote requests by automatically caching them on client.
+* [lottie-angular2](https://github.com/chenqingspring/ng-lottie) - Render After Effects animations on Angular2 based on Bodymovin.
+* [ngx-restangular](https://github.com/2muchcoffeecom/ngx-restangular) - Restangular for Angular 2 and higher versions.
+* [ngx-config/core](https://github.com/ngx-config/core) - Configuration utility for Angular (incl. Angular Universal loader) by @fulls1z3
+* [ngx-cache/core](https://github.com/ngx-cache/core) - Cache utility for Angular (incl. browser & server platform implementations) by @fulls1z3
+* [ngx-i18n-router/core](https://github.com/ngx-i18n-router/core) - Route internationalization utility for Angular by @fulls1z3
+* [ngx-qrcode2](https://github.com/techiediaries/ngx-qrcode) - An Angular 4+ Component library for Generating QR (Quick Response ) Codes 
+* [ng2-permission](https://github.com/JavadRasouli/ng2-permission) - Fully featured permission based access control for your angular 4+ applications. This module inspired from [`angular-permission`](https://github.com/Narzerus/angular-permission).
 
 #### Generators
 * Node.js
